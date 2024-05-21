@@ -1,7 +1,6 @@
 #creando una lista se pueden modificar 
 lista = ["oscarsam","soy",True,1.75]
 
-
 #creando una tupla (no se pueden modificar)
 tupla = ("oscarsam","soy",True,1.75)
 
