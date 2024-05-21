@@ -1,6 +1,7 @@
 ingresos_mensuales = 81000
 gastos_mensuales = 70000
 
+
 #if anidados y else if (elif)
 
 if ingresos_mensuales > 10000:
