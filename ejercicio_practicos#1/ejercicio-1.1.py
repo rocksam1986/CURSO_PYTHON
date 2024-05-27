@@ -46,5 +46,5 @@ print("------------------------")
 print("este es el tiempo si todos los cursos duraran 10 horas:")
 #mostrando diferencias si los cursos duraran 10 horas
 print (f'ver 10 horas de este curso equivale a ver  {otro_cursos_prom *100 // dalton_curso /10} horas de otros cursos')
-print (f'ver 10 horas de otros curso equivale a ver  {dalton_curso *100 // otro_cursos_prom /10} horas de otros cursos')
+print (f 'ver 10 horas de otros curso equivale a ver  {dalton_curso *100 // otro_cursos_prom /10} horas de otros cursos')
 print("------------------------")
