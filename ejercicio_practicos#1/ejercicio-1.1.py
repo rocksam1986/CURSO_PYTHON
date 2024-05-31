@@ -11,14 +11,14 @@ crudo_prom = 5
 crudo_dalto =3.5
 
 
-#diferecioas de duracion
+#diferecias de duracion
 
-diferencia_con_min = 100 - dalton_curso / otro_cursos_min * 100
+diferencia_con_min = 100 - dalton_curso / otro_cursos_min *100
 diferencia_con_max = 100 - dalton_curso *1000 // otro_cursos_max / 10
 diferencia_con_prom = 100 - dalton_curso / otro_cursos_prom * 100
 
 
-#calculandio el porsentaje de tiempo vacio removido
+#calculando el porsentaje de tiempo vacio removido
 
 tiempo_vacio_prom = 100 - otro_cursos_prom *1000 // crudo_prom / 10
 tiempo_vacio_dalto = 100 - dalton_curso *1000 // crudo_dalto / 10
